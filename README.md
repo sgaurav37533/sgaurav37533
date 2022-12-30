@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development/ Data Pipelines and Analysis**
 
--📊 I'm into **Cloud and Big Data.**
+- 📊 I'm into **Cloud and Big Data.**
 
 - 💬 Ask me about **SQL , JAVA , DSA**
 
