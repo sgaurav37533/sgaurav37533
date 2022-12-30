@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40px">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="300"/>
+  <img src="https://media0.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=ecf05e47vn9td7vuarn1gvg620w0hzwh5s06mmy9vq6x4uek&rid=giphy.gif&ct=g" width="450" height="300"/>
 </div>
 
 <h1 align="center">I'm Gaurav Singh</h1>
